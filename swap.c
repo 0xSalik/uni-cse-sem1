@@ -9,6 +9,6 @@ int main() {
     a = a ^ b;
     b = a ^ b;
     a = a ^ b;
-    printf("The swapped numbers are: %d, %d", a, b);
+    printf("The numbers were swapped from: %d, %d to: %d, %d", a, b, b, a);
     return 0;
 }
