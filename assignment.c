@@ -12,7 +12,7 @@ int main() {
     c *= b;
     printf("c *= b: %d\n", c);
     c /= b;
-    printf("c /= b: %d\n", c);
+    printf("c /= b: %f\n", (float)c);
     c %= b;
     printf("c %%= b: %d\n\n", c);
     return 0;
