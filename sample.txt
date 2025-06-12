@@ -1,0 +1,5 @@
+This is a sample text file for testing file operations in C programming.
+It contains multiple sentences! Each sentence ends with punctuation marks.
+There are vowels and consonants in this text.
+The file analysis program will count characters, words, sentences, vowels, consonants, and punctuation marks.
+Programming in C is fun and educational.
